@@ -1,4 +1,4 @@
-package com.sda.javapoz25.gnf.files;
+package com.sda.javapoz25.gnf.files.zapis;
 
 import java.io.*;
 
