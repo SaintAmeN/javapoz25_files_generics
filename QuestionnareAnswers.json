@@ -1,1 +1,19 @@
-[{"atmosphere":"groźny","trenerLate":"tak","classLevel":"nie","trenerHelpful":null,"rewardWouldBeGood":null},{"atmosphere":"miła","trenerLate":"nie","classLevel":"tak","trenerHelpful":null,"rewardWouldBeGood":null},{"atmosphere":"dziką","trenerLate":"tak","classLevel":"co to znaczy ?","trenerHelpful":null,"rewardWouldBeGood":null}]
+[
+  {"questionsAndAnswers":[
+    {"question":"Atmosferę na kursie określił/a byś jako:","answer":"wroga"},
+    {"question":"Czy trenerzy się spozniaja:","answer":"tak"},
+    {"question":"Jaki był poziom zajęć:","answer":"tak"},
+    {"question":"Czy trener był pomocny:","answer":"tak"},
+    {"question":"Czy nagradzanie kursantów motywuje:","answer":"tak"}]},
+  {"questionsAndAnswers":[
+    {"question":"Atmosferę na kursie określił/a byś jako:","answer":"iauwhd"},
+    {"question":"Czy trenerzy się spozniaja:","answer":"awfkjnrg"},
+    {"question":"Jaki był poziom zajęć:","answer":"kjesnf"},
+    {"question":"Czy trener był pomocny:","answer":"srkjgn"},
+    {"question":"Czy nagradzanie kursantów motywuje:","answer":"eafkjn"}]},
+  {"questionsAndAnswers":[
+    {"question":"Atmosferę na kursie określił/a byś jako:","answer":"a"},
+    {"question":"Czy trenerzy się spozniaja:","answer":"b"},
+    {"question":"Jaki był poziom zajęć:","answer":"c"},
+    {"question":"Czy trener był pomocny:","answer":"d"},
+    {"question":"Czy nagradzanie kursantów motywuje:","answer":"e"}]}]

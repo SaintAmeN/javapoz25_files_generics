@@ -1,1 +1,13 @@
-[{"imie":"co to Ciebie","nazwisko":"interesuje"}]
+[
+  {"questionsAndAnswers":[
+    {"question":"Podaj imie (opcjonalne):","answer":"Grupa"},
+    {"question":"Podaj nazwisko (opcjonalne):","answer":"Poznanska"}]},
+  {"questionsAndAnswers":[
+    {"question":"Podaj imie (opcjonalne):","answer":"nie"},
+    {"question":"Podaj nazwisko (opcjonalne):","answer":"nie"}]},
+  {"questionsAndAnswers":[
+    {"question":"Podaj imie (opcjonalne):","answer":""},
+    {"question":"Podaj nazwisko (opcjonalne):","answer":"awkj"}]},
+  {"questionsAndAnswers":[
+    {"question":"Podaj imie (opcjonalne):","answer":"kajwfjn"},
+    {"question":"Podaj nazwisko (opcjonalne):","answer":"drkgjn"}]}]
