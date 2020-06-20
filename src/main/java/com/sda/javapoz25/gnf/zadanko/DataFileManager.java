@@ -14,11 +14,11 @@ import java.util.List;
  * <p>
  * [
  * {
- * ...
+ * ... 5 1 9 0 8 8 3 9 9
  * },
  * ]
  */
-public class DataFileManager<T> {
+public class DataFileManager<T extends SaveableEntity> {
     private final static ObjectMapper OBJECT_MAPPER = new ObjectMapper();
     private final String fileName;
 
